@@ -56,7 +56,7 @@
   <a href="https://tpower2.net/cn" style="margin-right: 10px;">中文</a>
   <a href="https://tpower2.net">English</a>
 </h3>
-                                  <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -76,13 +76,34 @@
     .login-button:hover {
       background-color: darkred;
     }
+
+    .top-bar {
+      display: flex;
+      align-items: center;
+      gap: 20px; /* Adds space between links and button */
+      padding: 10px;
+    }
+
+    .language-links a {
+      margin-right: 10px;
+      text-decoration: none;
+      color: black;
+      font-size: 16px;
+    }
   </style>
 </head>
 <body>
 
-  <a href="https://www.google.com" target="_blank">
-    <button class="login-button">Login/Signup</button>
-  </a>
+  <div class="top-bar">
+    <div class="language-links">
+      <a href="https://tpower2.net/cn">中文</a>
+      <a href="https://tpower2.net">English</a>
+    </div>
+
+    <a href="https://www.google.com" target="_blank">
+      <button class="login-button">Login/Signup</button>
+    </a>
+  </div>
 
 </body>
 </html>

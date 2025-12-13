@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.tpower3.net/sitemap.xml
+Sitemap: https://www.tpower3.net/image-sitemap.xml

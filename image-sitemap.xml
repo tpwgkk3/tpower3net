@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://www.tpower3.net/</loc>
+
+    <image:image>
+      <image:loc>https://www.tpower3.net/content/tpower3-maxbet.png</image:loc>
+      <image:title>MaxBet Games on TPower3</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.tpower3.net/content/tpower3-jili.png</image:loc>
+      <image:title>Jili Slot Games on TPower3</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.tpower3.net/content/tpower3-mega888.png</image:loc>
+      <image:title>Mega888 Provider on TPower3</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.tpower3.net/content/tpower3-918kiss.png</image:loc>
+      <image:title>918Kiss Games Available on TPower3</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.tpower3.net/content/tpower3-pragmatic-play-live.png</image:loc>
+      <image:title>Pragmatic Play Live Casino via TPower3</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.tpower3.net/content/tpower3-dreamgaming.png</image:loc>
+      <image:title>DreamGaming Live Casino on TPower3</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.tpower3.net/content/tpower3-aesexy.png</image:loc>
+      <image:title>AE Sexy Live Casino Integrated with TPower3</image:title>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.tpower3.net/content/tpower3-allbet.png</image:loc>
+      <image:title>Allbet Live Casino Platform on TPower3</image:title>
+    </image:image>
+
+  </url>
+
+</urlset>

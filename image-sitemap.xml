@@ -1,51 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset 
+<urlset
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
     <loc>https://www.tpower3.net/</loc>
 
-    <image:image>
-      <image:loc>https://www.tpower3.net/content/tpower3-maxbet.png</image:loc>
-      <image:title>MaxBet Games on TPower3</image:title>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://www.tpower3.net/content/tpower3-jili.png</image:loc>
-      <image:title>Jili Slot Games on TPower3</image:title>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://www.tpower3.net/content/tpower3-mega888.png</image:loc>
-      <image:title>Mega888 Provider on TPower3</image:title>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://www.tpower3.net/content/tpower3-918kiss.png</image:loc>
-      <image:title>918Kiss Games Available on TPower3</image:title>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://www.tpower3.net/content/tpower3-pragmatic-play-live.png</image:loc>
-      <image:title>Pragmatic Play Live Casino via TPower3</image:title>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://www.tpower3.net/content/tpower3-dreamgaming.png</image:loc>
-      <image:title>DreamGaming Live Casino on TPower3</image:title>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://www.tpower3.net/content/tpower3-aesexy.png</image:loc>
-      <image:title>AE Sexy Live Casino Integrated with TPower3</image:title>
-    </image:image>
-
-    <image:image>
-      <image:loc>https://www.tpower3.net/content/tpower3-allbet.png</image:loc>
-      <image:title>Allbet Live Casino Platform on TPower3</image:title>
-    </image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-maxbet.png</image:loc><image:title>MaxBet Games on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-obet33.png</image:loc><image:title>Obet33 Platform on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-wbet.png</image:loc><image:title>WBet Sports Platform via TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-rcb988.png</image:loc><image:title>RCB988 Provider Featured on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-4d.png</image:loc><image:title>4D Lottery Games on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-epicwin.png</image:loc><image:title>EpicWin Slot Games at TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-vpower.png</image:loc><image:title>VPower Slot Provider on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-lfc888.png</image:loc><image:title>LFC888 Games Available on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-pegasus-slot.png</image:loc><image:title>Pegasus Slot Games on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-bwg.png</image:loc><image:title>BWG Gaming Provider on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-uuslot.png</image:loc><image:title>UUSlot Games Integrated with TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-live22.png</image:loc><image:title>Live22 Slot Games on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-gfg.png</image:loc><image:title>GFG Entertainment Provider via TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-pragmatic-play-slot.png</image:loc><image:title>Pragmatic Play Slots Featured on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-clotplay.png</image:loc><image:title>ClotPlay Slot Games on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-playtech-slot.png</image:loc><image:title>Playtech Slot Provider on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-jili.png</image:loc><image:title>Jili Slot Games Accessible on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-jdb-slot.png</image:loc><image:title>JDB Slot Games Offered by TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-ag-slot.png</image:loc><image:title>AG Slot Provider Integrated with TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-sky1388.png</image:loc><image:title>Sky1388 Gaming Platform on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-918kiss.png</image:loc><image:title>918Kiss Games Supported by TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-mega888.png</image:loc><image:title>Mega888 Gaming Provider on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-pussy888.png</image:loc><image:title>Pussy888 Slot Games on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-tiger9.png</image:loc><image:title>Tiger9 Games Integrated with TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-astar.png</image:loc><image:title>ASTAR Gaming Provider Featured on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-allbet.png</image:loc><image:title>Allbet Live Casino on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-pragmatic-play-live.png</image:loc><image:title>Pragmatic Play Live Casino via TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-aesexy.png</image:loc><image:title>AE Sexy Live Casino Integrated with TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-ct855.png</image:loc><image:title>CT855 Live Casino Available on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-dreamgaming.png</image:loc><image:title>DreamGaming Live Casino Featured on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-playtech-live.png</image:loc><image:title>Playtech Live Casino Platform on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-ag-live.png</image:loc><image:title>AG Live Casino Supported by TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-jdb-fishing.png</image:loc><image:title>JDB Fishing Game Available on TPower3</image:title></image:image>
+    <image:image><image:loc>https://www.tpower3.net/content/tpower3-sv388.png</image:loc><image:title>SV388 Cockfight Platform on TPower3</image:title></image:image>
 
   </url>
-
 </urlset>

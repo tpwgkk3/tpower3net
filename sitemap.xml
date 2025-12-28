@@ -1,53 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Homepage -->
   <url>
     <loc>https://www.tpower3.net/</loc>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
+    <lastmod>2025-01-01</lastmod>
   </url>
 
-  <!-- Chinese Version -->
   <url>
     <loc>https://www.tpower3.net/cn.html</loc>
-    <priority>0.9</priority>
-    <changefreq>monthly</changefreq>
+    <lastmod>2025-01-01</lastmod>
   </url>
 
-  <!-- About -->
   <url>
     <loc>https://www.tpower3.net/about.html</loc>
-    <priority>0.8</priority>
-    <changefreq>monthly</changefreq>
+    <lastmod>2025-01-01</lastmod>
   </url>
 
-  <!-- Contact -->
   <url>
     <loc>https://www.tpower3.net/contact.html</loc>
-    <priority>0.8</priority>
-    <changefreq>monthly</changefreq>
+    <lastmod>2025-01-01</lastmod>
   </url>
 
-  <!-- Terms -->
-  <url>
-    <loc>https://www.tpower3.net/terms.html</loc>
-    <priority>0.6</priority>
-    <changefreq>yearly</changefreq>
-  </url>
-
-  <!-- Privacy -->
   <url>
     <loc>https://www.tpower3.net/privacy.html</loc>
-    <priority>0.6</priority>
-    <changefreq>yearly</changefreq>
+    <lastmod>2025-01-01</lastmod>
   </url>
 
-  <!-- Readme / Site Info -->
+  <url>
+    <loc>https://www.tpower3.net/terms.html</loc>
+    <lastmod>2025-01-01</lastmod>
+  </url>
+
   <url>
     <loc>https://www.tpower3.net/readme.html</loc>
-    <priority>0.5</priority>
-    <changefreq>yearly</changefreq>
+    <lastmod>2025-01-01</lastmod>
   </url>
 
 </urlset>

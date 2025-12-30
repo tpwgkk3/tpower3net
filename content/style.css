@@ -167,7 +167,7 @@ img {
 }
 
 #a6685618956.a695261691 .footer-bg[data-v-7a30832209] {
-	background: #fff;
+	background: linear-gradient(180deg, #FF0000 0%, #330000 100%);
 	-webkit-box-shadow: 0 12px 10px 10px hsla(0, 0%, 67.8%, 0.6196078431372549);
 	box-shadow: 0 12px 10px 10px hsla(0, 0%, 67.8%, 0.6196078431372549);
 	border-top-left-radius: 20px;
@@ -175,11 +175,11 @@ img {
 }
 
 #a6685618956.a695261691 .tab-text[data-v-7a30832209] {
-	color: #575757;
+	color: #FFFFFF;
 }
 
 #a6685618956.a695261691 .tab-text-active[data-v-7a30832209] {
-	color: #000;
+	color: #FFFFFF;
 }
 
 #a6685618956.a69531983 .wrap[data-v-7a05651889] {

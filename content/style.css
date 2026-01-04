@@ -27,7 +27,7 @@ img {
 	display: block;
 	font-weight: bold;
 	color: #ffcc00;            /* premium gold/yellow */
-	animation: signupBlink 2.5s infinite;
+	animation: blink 2s infinite;
 }
 
 #a6685618956 a {}

@@ -26,6 +26,8 @@ img {
 .text-signup {
 	display: block;
 	font-weight: bold;
+	color: #ffcc00;            /* premium gold/yellow */
+	animation: signupBlink 2.5s infinite;
 }
 
 #a6685618956 a {}
@@ -318,10 +320,13 @@ img {
 
 #a6685618956 .balance-card[data-v-7a1517396],
 #a6685618956 .wallet-card[data-v-7a1517396] {
-	background-color: #dbd9da;
-	border-radius: 3px;
+	background: linear-gradient(to right, #1a1a1a, #2a2a2a);
+    border-left: 4px solid #e92213;
+	border-right: 4px solid #e92213;
+	border-radius: 5px;
 	padding: 8px;
 	text-align: center;
+	color: #fff; /* important for readability */
 }
 
 #a6685618956 .balance-card[data-v-7a1517396] {
@@ -1193,7 +1198,8 @@ button:not(:disabled) {
 
 .alert {
 	font-weight: bold;
-	color: #b30404;
+	color: #ffffff;
+	animation: blink 2s infinite;
 }
 
 .hidden {

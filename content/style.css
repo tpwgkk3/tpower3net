@@ -84,8 +84,9 @@ img {
 }
 
 #a6685618956.a695261691 .navbar-container[data-v-7a7156162] {
-	background-color: #E6E3E3;
+	background-color: #1a1a1a;
 	color: #242424;
+	border-bottom: 2px solid #e92213;
 }
 
 #a6685618956 .countryImage[data-v-7a2856198] {
@@ -321,11 +322,11 @@ img {
 #a6685618956 .balance-card[data-v-7a1517396],
 #a6685618956 .wallet-card[data-v-7a1517396] {
 	background: linear-gradient(to right, #1a1a1a, #2a2a2a);
-    border-left: 4px solid #e92213;
-	border-right: 4px solid #e92213;
-	border-top: 4px solid #e92213;
-	border-bottom: 4px solid #e92213;
-	border-radius: 5px;
+    border-left: 3px solid #e92213;
+	border-right: 3px solid #e92213;
+	border-top: 3px solid #e92213;
+	border-bottom: 3px solid #e92213;
+	border-radius: 4px;
 	padding: 8px;
 	text-align: center;
 	color: #fff; /* important for readability */

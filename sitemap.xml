@@ -2,39 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://www.tpower3.net/</loc>
-    <lastmod>2025-12-28</lastmod>
+    <loc>https://tpower3.net/</loc>
+    <lastmod>2026-03-18</lastmod>
   </url>
 
   <url>
-    <loc>https://www.tpower3.net/cn.html</loc>
-    <lastmod>2025-12-28</lastmod>
+    <loc>https://tpower3.net/cn.html</loc>
+    <lastmod>2026-03-18</lastmod>
   </url>
 
   <url>
-    <loc>https://www.tpower3.net/about.html</loc>
-    <lastmod>2025-12-28</lastmod>
+    <loc>https://tpower3.net/about.html</loc>
+    <lastmod>2026-03-18</lastmod>
   </url>
 
   <url>
-    <loc>https://www.tpower3.net/contact.html</loc>
-    <lastmod>2025-12-28</lastmod>
+    <loc>https://tpower3.net/contact.html</loc>
+    <lastmod>2026-03-18</lastmod>
   </url>
 
   <url>
-    <loc>https://www.tpower3.net/privacy.html</loc>
-    <lastmod>2025-12-28</lastmod>
+    <loc>https://tpower3.net/faq.html</loc>
+    <lastmod>2026-03-18</lastmod>
   </url>
 
   <url>
-    <loc>https://www.tpower3.net/terms.html</loc>
-    <lastmod>2025-12-28</lastmod>
+    <loc>https://tpower3.net/privacy.html</loc>
+    <lastmod>2026-03-18</lastmod>
   </url>
 
   <url>
-    <loc>https://www.tpower3.net/readme.html</loc>
-    <lastmod>2025-12-28</lastmod>
+    <loc>https://tpower3.net/terms.html</loc>
+    <lastmod>2026-03-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://tpower3.net/readme.html</loc>
+    <lastmod>2026-03-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://tpower3.net/how-to-register-tpower3.html</loc>
+    <lastmod>2026-03-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://tpower3.net/what-is-tpower.html</loc>
+    <lastmod>2026-03-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://tpower3.net/tpower-game-providers.html</loc>
+    <lastmod>2026-03-18</lastmod>
   </url>
 
 </urlset>
-
